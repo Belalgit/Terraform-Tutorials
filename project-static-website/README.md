@@ -1,6 +1,6 @@
 _**Static Website Hosting using Terraform and AWS S3 Bucket**_
 
-Terraform Code:
+Terraform Code Planning:
 1. **Provider Configuration**: Specifies AWS and random providers.
 2. **Bucket Creation**: Creates an S3 bucket with a unique name.
 3. **Public Access**: Configures public access to the bucket.
